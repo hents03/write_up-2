@@ -1,0 +1,11 @@
+TWITTER AUTHENTIFICATION
+
+1.telecharger le fichier dans un nouvel onglets
+
+2.utiliser wireshark pour ouvrir le fichier 
+
+3.selectionnez le protocole et suivre le flux TCP
+
+4."Authorization: Basic dXNlcnRlc3Q6cGFzc3dvcmQ=" se code en base 64 devra etre decode 
+
+5."usertest:...." montre le mot de passe

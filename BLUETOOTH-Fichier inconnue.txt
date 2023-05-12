@@ -1,0 +1,14 @@
+BLUETOOTH-Fichier inconnue
+
+
+1.telecharger le fichier dans un nouvel onglet
+
+2.ouvrir avec wirshark
+
+3.dans la barre d'outils 
+-utiliser wireless puis equipements bluetooth
+-copier l'adresse et le nom du telephone 
+remarque: mettre toutes les lettres en majuscules 
+(0C:B3:19:B9:4F:C6GT-S7390G) 
+
+4. crypter l'info avec SHA1 Encoder

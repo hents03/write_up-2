@@ -1,0 +1,15 @@
+
+
+
+FTP AUTHENTIFICATION
+
+
+1. telecharger le fichier dans un nouvel onglets
+
+2.utiliser wireshark pour lire le fichier 
+
+3.selectionnez un protocole et suivre le flux TCP
+
+4.a l'intérieur se trouve plusieurs données notamment le mot de pass 
+PASS:..... (le mot de passe se trouve derrière le PASS)
+

@@ -1,0 +1,9 @@
+TELNET AUTHENTIFICATION
+
+1. telecharger le fichier dans un nouvel onglets
+
+2.utiliser wireshrak pour ouvrir le fichier
+
+3.selectionner un protocole et suivre le flux TCP
+
+4.password affiche le mot de passe

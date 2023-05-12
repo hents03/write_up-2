@@ -1,0 +1,11 @@
+ETHERNET TRAME
+
+1.telecharger le fichier dans un nouvel onglets 
+
+2.le code qui va apparaitre sera en hexadecimal
+vous devez le convertir en ASCII
+elle va donner "Authorization: Basic Y29uZmk6ZGVudGlhbA=="
+
+3.decoder Y29uZmk6ZGVudGlhbA== en 64bits
+le mot de passe sera affichée
+ 
